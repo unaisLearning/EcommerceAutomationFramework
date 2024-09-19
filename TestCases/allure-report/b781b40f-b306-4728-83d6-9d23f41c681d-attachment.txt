@@ -1,0 +1,13 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/Users/unais/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-arm64/chromedriver] found in cache
+INFO     TestCases.conftest:conftest.py:42 Attempting to log in
+INFO     TestLoginLogger:LoginPage.py:18 Starting login test with username: standard_user
+INFO     TestCases.conftest:conftest.py:46 Login successful
+INFO     TestLogger:test_cart.py:12 Adding first product to the cart
+INFO     TestLogger:test_cart.py:18 Added product to cart
+INFO     TestLogger:test_cart.py:22 First product added: Sauce Labs Backpack
+INFO     TestLogger:test_cart.py:26 Navigated to the cart
+INFO     TestLogger:test_cart.py:37 Verified the product 'Sauce Labs Backpack' is in the cart.
+INFO     TestCases.conftest:conftest.py:48 Logging out after test

@@ -1,0 +1,9 @@
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/Users/unais/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-arm64/chromedriver] found in cache
+2024-09-19 17:52:07,894 - TestLoginLogger - INFO - Starting login test with username: invalid_user
+2024-09-19 17:52:07,894 - TestLoginLogger - INFO - Starting login test with username: invalid_user
+2024-09-19 17:52:07,894 - TestLoginLogger - INFO - Starting login test with username: invalid_user
+2024-09-19 17:52:07,894 - TestLoginLogger - INFO - Starting login test with username: invalid_user
+INFO:TestLoginLogger:Starting login test with username: invalid_user

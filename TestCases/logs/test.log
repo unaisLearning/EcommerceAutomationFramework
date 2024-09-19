@@ -1,0 +1,15 @@
+2024-09-19 17:51:48,321 - TestLoginLogger - INFO - Starting login test with username: standard_user
+2024-09-19 17:51:48,660 - TestLogger - INFO - Adding first product to the cart
+2024-09-19 17:51:48,687 - TestLogger - INFO - Added product to cart
+2024-09-19 17:51:48,726 - TestLogger - INFO - First product added: Sauce Labs Backpack
+2024-09-19 17:51:48,763 - TestLogger - INFO - Navigated to the cart
+2024-09-19 17:51:48,787 - TestLogger - INFO - Verified the product 'Sauce Labs Backpack' is in the cart.
+2024-09-19 17:51:51,269 - TestLoginLogger - INFO - Starting login test with username: standard_user
+2024-09-19 17:51:51,269 - TestLoginLogger - INFO - Starting login test with username: standard_user
+2024-09-19 17:51:55,045 - TestLoginLogger - INFO - Starting login test with username: locked_out_user
+2024-09-19 17:51:55,045 - TestLoginLogger - INFO - Starting login test with username: locked_out_user
+2024-09-19 17:51:55,045 - TestLoginLogger - INFO - Starting login test with username: locked_out_user
+2024-09-19 17:52:07,894 - TestLoginLogger - INFO - Starting login test with username: invalid_user
+2024-09-19 17:52:07,894 - TestLoginLogger - INFO - Starting login test with username: invalid_user
+2024-09-19 17:52:07,894 - TestLoginLogger - INFO - Starting login test with username: invalid_user
+2024-09-19 17:52:07,894 - TestLoginLogger - INFO - Starting login test with username: invalid_user

@@ -1,0 +1,2 @@
+2024-09-19 16:02:52,080 - TestLoginLogger - INFO - Starting login test with username: standard_user
+2024-09-19 16:02:52,080 - TestLoginLogger - INFO - Starting login test with username: standard_user

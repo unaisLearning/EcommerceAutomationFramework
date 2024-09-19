@@ -1,0 +1,10 @@
+2024-09-19 12:59:20,556 - test_cart.py:[11] - [INFO] - open cart
+2024-09-19 13:22:23,441 - test_cart.py:[11] - [INFO] - open cart
+2024-09-19 13:23:25,627 - test_cart.py:[11] - [INFO] - open cart
+2024-09-19 13:32:35,878 - test_cart.py:[10] - [INFO] - Opening cart
+2024-09-19 13:47:27,253 - test_cart.py:[10] - [INFO] - Opening cart
+2024-09-19 13:55:21,142 - test_cart.py:[12] - [INFO] - Adding first product to the cart
+2024-09-19 13:55:21,173 - test_cart.py:[18] - [INFO] - Added product to cart
+2024-09-19 13:55:21,212 - test_cart.py:[22] - [INFO] - First product added: Sauce Labs Backpack
+2024-09-19 13:55:21,245 - test_cart.py:[26] - [INFO] - Navigated to the cart
+2024-09-19 13:55:21,269 - test_cart.py:[37] - [INFO] - Verified the product 'Sauce Labs Backpack' is in the cart.

@@ -1,0 +1,5 @@
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+INFO     WDM:logger.py:11 Driver [/Users/unais/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-arm64/chromedriver] found in cache
+INFO     TestLoginLogger:LoginPage.py:18 Starting login test with username: locked_out_user

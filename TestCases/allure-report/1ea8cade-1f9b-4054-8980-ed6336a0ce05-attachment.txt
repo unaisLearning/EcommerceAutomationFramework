@@ -1,0 +1,19 @@
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver [/Users/unais/.wdm/drivers/chromedriver/mac64/128.0.6613.137/chromedriver-mac-arm64/chromedriver] found in cache
+INFO:TestCases.conftest:Attempting to log in
+2024-09-19 17:51:48,321 - TestLoginLogger - INFO - Starting login test with username: standard_user
+INFO:TestLoginLogger:Starting login test with username: standard_user
+INFO:TestCases.conftest:Login successful
+2024-09-19 17:51:48,660 - TestLogger - INFO - Adding first product to the cart
+INFO:TestLogger:Adding first product to the cart
+2024-09-19 17:51:48,687 - TestLogger - INFO - Added product to cart
+INFO:TestLogger:Added product to cart
+2024-09-19 17:51:48,726 - TestLogger - INFO - First product added: Sauce Labs Backpack
+INFO:TestLogger:First product added: Sauce Labs Backpack
+2024-09-19 17:51:48,763 - TestLogger - INFO - Navigated to the cart
+INFO:TestLogger:Navigated to the cart
+2024-09-19 17:51:48,787 - TestLogger - INFO - Verified the product 'Sauce Labs Backpack' is in the cart.
+INFO:TestLogger:Verified the product 'Sauce Labs Backpack' is in the cart.
+INFO:TestCases.conftest:Logging out after test

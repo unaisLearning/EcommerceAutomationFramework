@@ -1,6 +1,0 @@
-2024-09-19 16:02:48,887 - TestLoginLogger - INFO - Starting login test with username: standard_user
-2024-09-19 16:02:49,555 - TestLogger - INFO - Adding first product to the cart
-2024-09-19 16:02:49,604 - TestLogger - INFO - Added product to cart
-2024-09-19 16:02:49,675 - TestLogger - INFO - First product added: Sauce Labs Backpack
-2024-09-19 16:02:49,727 - TestLogger - INFO - Navigated to the cart
-2024-09-19 16:02:49,768 - TestLogger - INFO - Verified the product 'Sauce Labs Backpack' is in the cart.

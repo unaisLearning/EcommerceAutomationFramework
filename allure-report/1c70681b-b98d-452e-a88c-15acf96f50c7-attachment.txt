@@ -1,3 +1,0 @@
-2024-09-19 16:02:54,692 - TestLoginLogger - INFO - Starting login test with username: locked_out_user
-2024-09-19 16:02:54,692 - TestLoginLogger - INFO - Starting login test with username: locked_out_user
-2024-09-19 16:02:54,692 - TestLoginLogger - INFO - Starting login test with username: locked_out_user

@@ -1,4 +1,0 @@
-2024-09-19 16:03:08,032 - TestLoginLogger - INFO - Starting login test with username: invalid_user
-2024-09-19 16:03:08,032 - TestLoginLogger - INFO - Starting login test with username: invalid_user
-2024-09-19 16:03:08,032 - TestLoginLogger - INFO - Starting login test with username: invalid_user
-2024-09-19 16:03:08,032 - TestLoginLogger - INFO - Starting login test with username: invalid_user

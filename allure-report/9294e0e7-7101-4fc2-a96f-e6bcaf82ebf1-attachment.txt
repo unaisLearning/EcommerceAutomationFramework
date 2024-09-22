@@ -1,1 +1,0 @@
-[32mINFO    [0m TestLoginLogger:LoginPage.py:18 Starting login test with username: invalid_user

@@ -1,6 +1,0 @@
-[32mINFO    [0m TestLoginLogger:LoginPage.py:18 Starting login test with username: standard_user
-[32mINFO    [0m TestLogger:test_cart.py:12 Adding first product to the cart
-[32mINFO    [0m TestLogger:test_cart.py:18 Added product to cart
-[32mINFO    [0m TestLogger:test_cart.py:22 First product added: Sauce Labs Backpack
-[32mINFO    [0m TestLogger:test_cart.py:26 Navigated to the cart
-[32mINFO    [0m TestLogger:test_cart.py:37 Verified the product 'Sauce Labs Backpack' is in the cart.
